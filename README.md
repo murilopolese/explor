@@ -13,7 +13,7 @@ won't affect your use of it.
 
 ## Installing
 
-*Adapted from [robmyers'](https://robmyers.org/2011/01/04/explor_update/) website*
+*Adapted from [robmyers'](https://robmyers.org/2011/01/04/explor_update/) website. Thanks [Todd](https://twitter.com/synesthete).*
 
 You’ll need git, autotools, libtool and g77 installed. On Fedora the command to install them is something like:
 
